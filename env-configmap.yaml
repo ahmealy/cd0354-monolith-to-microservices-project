@@ -6,7 +6,7 @@ data:
   AWS_REGION: dXMtZWFzdC0x
   JWT_SECRET: dGVzdGluZw==
   POSTGRESS_DB: cG9zdGdyZXM=
-  POSTGRESS_HOST: cG9zdGdyZXMtbWljcm9zZXJ2aWNlLmNiZHlkcjd3bzU3Yi51cy1lYXN0LTEucmRzLmFtYXpvbmF3cy5jb20=
+  POSTGRESS_HOST: cG9zdGdyZXMuY2ozN2pkdjd6c3lrLnVzLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbQ==
   URL: http://localhost:8100  
 metadata:
   name: env-config
